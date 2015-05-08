@@ -1,0 +1,23 @@
+{
+  "name": "express_rethink",
+  "version": "0.0.1",
+  "description": "An Express JS and RethinkDB example",
+  "main": "app.js",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Craig Walsh",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^0.8.3",
+    "body-parser": "^1.12.3",
+    "cors": "^2.6.0",
+    "express": "^4.12.3",
+    "helmet": "^0.9.0",
+    "jwt-simple": "^0.3.0",
+    "moment": "^2.10.2",
+    "morgan": "^1.5.2",
+    "rethinkdb": "^2.0.0"
+  }
+}
