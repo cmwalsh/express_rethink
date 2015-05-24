@@ -20,6 +20,7 @@
     "jwt-simple": "^0.3.0",
     "moment": "^2.10.2",
     "morgan": "^1.5.2",
+    "promise": "^7.0.1",
     "rethinkdb": "^2.0.0"
   }
 }
